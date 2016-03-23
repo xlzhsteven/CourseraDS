@@ -1,0 +1,7 @@
+bin
+org.eclipse.jdt.core.prefs
+*.txt
+*.out
+*.jar
+*.css
+src/application/view
